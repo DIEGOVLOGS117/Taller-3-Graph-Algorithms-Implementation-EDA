@@ -1,10 +1,5 @@
 package AlgoritmoKruskal;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-
 public class GrafoAlgoritmoKruskal {
     
     protected int V; // número de vértices

@@ -5,7 +5,7 @@ public class MainAlgortimoKruskal {
     public static void main(String[] args) {
         
         // Crear grafo con 5 vértices y 7 aristas
-        GrafoAlgoritmoKruskal g = new GrafoAlgoritmoKruskal(5, 7);
+        GrafoAlgoritmoKruskal g = new GrafoAlgoritmoKruskal(9, 14);
         
         g.agregarArista(0, 0, 1, 4);   // A-B
         g.agregarArista(1, 0, 7, 8);   // A-H

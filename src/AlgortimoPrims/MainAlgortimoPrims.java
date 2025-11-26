@@ -20,7 +20,6 @@ public class MainAlgortimoPrims {
         g.agregarArista(11, 6, 7, 1);  // G-H
         g.agregarArista(12, 6, 8, 6);  // G-I
 
-   
         g.prims(6);  // iniciar en G (índice 6)
     }
 }

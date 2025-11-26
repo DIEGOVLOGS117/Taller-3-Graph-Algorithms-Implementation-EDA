@@ -4,8 +4,8 @@ import java.util.*;
 
 public class GrafoAlgoritmoPrims {
 
-    private int V;
-    private int[][] grafo; // matriz de adyacencia
+    protected int V;
+    protected int[][] grafo; // matriz de adyacencia
 
     public GrafoAlgoritmoPrims(int V) {
         this.V = V;
